@@ -1,5 +1,5 @@
 ---
-abstract: 'The great new CGI::Session::Driver::dbic!'
+abstract: 'DBIx::Class storage driver for CGI::Session.'
 author:
   - 'Sergey Homenkow <shomenkow@gmail.com>'
 build_requires:
@@ -23,4 +23,4 @@ requires:
   DBIx::Class: 0
 resources:
   license: http://dev.perl.org/licenses/
-version: 0.01
+version: 1.00
