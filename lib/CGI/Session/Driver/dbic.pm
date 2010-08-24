@@ -7,7 +7,7 @@ use parent 'CGI::Session::Driver';
 
 =head1 NAME
 
-CGI::Session::Driver::dbic - The great new CGI::Session::Driver::dbic!
+CGI::Session::Driver::dbic - DBIx::Class storage driver for CGI::Session.
 
 =head1 VERSION
 
