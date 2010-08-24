@@ -1,4 +1,4 @@
 Revision history for CGI-Session-Driver-dbic
 
-0.01    24 Aug 2010
+1.00    24 Aug 2010
         First version DBIx::Class storage driver for CGI::Session, released on an unsuspecting world.
