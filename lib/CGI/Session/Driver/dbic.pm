@@ -7,7 +7,7 @@ use base 'CGI::Session::Driver';
 
 =head1 NAME
 
-CGI::Session::Driver::dbic - L<DBIx::Class> storage driver for L<CGI::Session>.
+CGI::Session::Driver::dbic - DBIx::Class storage driver for CGI::Session.
 
 =head1 VERSION
 
