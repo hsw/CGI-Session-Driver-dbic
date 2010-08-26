@@ -1,5 +1,5 @@
 ---
-abstract: 'DBIx::Class storage driver for CGI::Session.'
+abstract: 'L<DBIx::Class> storage driver for L<CGI::Session>.'
 author:
   - 'Sergey Homenkow <shomenkow@gmail.com>'
 build_requires:
@@ -22,5 +22,7 @@ requires:
   CGI::Session: 4
   DBIx::Class: 0
 resources:
+  homepage: http://github.com/hsw/CGI-Session-Driver-dbic
   license: http://dev.perl.org/licenses/
-version: 1.00
+  repository: git://github.com/hsw/CGI-Session-Driver-dbic.git
+version: 1.01

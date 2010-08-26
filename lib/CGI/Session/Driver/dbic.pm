@@ -3,19 +3,19 @@ package CGI::Session::Driver::dbic;
 use warnings;
 use strict;
 
-use parent 'CGI::Session::Driver';
+use base 'CGI::Session::Driver';
 
 =head1 NAME
 
-CGI::Session::Driver::dbic - DBIx::Class storage driver for CGI::Session.
+CGI::Session::Driver::dbic - L<DBIx::Class> storage driver for L<CGI::Session>.
 
 =head1 VERSION
 
-Version 0.01
+Version 1.01
 
 =cut
 
-our $VERSION = '1.00';
+our $VERSION = '1.01';
 
 =head1 SYNOPSIS
 
